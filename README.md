@@ -1,6 +1,5 @@
 # Logic-and-Functional-Programming
-# Systems Programming
-This repository contains the projects and related materials for the CMPE 230 Systems Programming course.
+This repository contains the projects and related materials for the CMPE 260 Principles of Programming Languages course.
 
 ## **Project 1: Farm Management with Prolog**
 This project involves developing a simulation for a farm environment where animals can move around, consume food, and reproduce.
